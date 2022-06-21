@@ -13,7 +13,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 moviepy==0.2.3.2
 nose2==0.7.4
-numpy==1.14.1
+numpy==1.22.0
 opencv-python==3.4.0.12
 Pillow==5.0.0
 pycodestyle==2.4.0
